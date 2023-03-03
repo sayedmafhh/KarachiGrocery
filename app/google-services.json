@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823794951760",
+    "project_id": "karachi-grocery",
+    "storage_bucket": "karachi-grocery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823794951760:android:bd9c21a8c131b4c1475355",
+        "android_client_info": {
+          "package_name": "com.karachi.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823794951760-2t24r1c74cuhh4p73vt7erceo3eeum64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCryOtrRJJIX5WhGDKJHaoKkoyaGXCV47g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823794951760-2t24r1c74cuhh4p73vt7erceo3eeum64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
